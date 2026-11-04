@@ -1,0 +1,8 @@
+lat.pam.kopi_dan_nyemil.app-pngs-0 D:\latihan\android latihan\uts mobile\kopi_dan_nyemil\app\build\generated\res\pngs\debug
+lat.pam.kopi_dan_nyemil.app-updated_navigation_xml-1 D:\latihan\android latihan\uts mobile\kopi_dan_nyemil\app\build\generated\updated_navigation_xml\debug
+lat.pam.kopi_dan_nyemil.app-packageDebugResources-2 D:\latihan\android latihan\uts mobile\kopi_dan_nyemil\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+lat.pam.kopi_dan_nyemil.app-packageDebugResources-3 D:\latihan\android latihan\uts mobile\kopi_dan_nyemil\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+lat.pam.kopi_dan_nyemil.app-debug-4 D:\latihan\android latihan\uts mobile\kopi_dan_nyemil\app\build\intermediates\merged_res\debug\mergeDebugResources
+lat.pam.kopi_dan_nyemil.app-debug-5 D:\latihan\android latihan\uts mobile\kopi_dan_nyemil\app\src\debug\res
+lat.pam.kopi_dan_nyemil.app-main-6 D:\latihan\android latihan\uts mobile\kopi_dan_nyemil\app\src\main\res
+gradleHome-0 C:\Users\AMRI\.gradle
