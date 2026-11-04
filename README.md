@@ -27,4 +27,20 @@ Aplikasi ini dirancang berdasarkan *wireframe* dengan alur 8 layar utama:
 6. Klik tombol **Run (Shift + F10)** untuk menginstal dan menjalankan aplikasi.
 
 ## 📸 Screenshot Tampilan
-*(Anda dapat menambahkan tangkapan layar/screenshot halaman Home, Profile, dan Order aplikasi Anda di bagian ini)*
+homepage 
+<img width="738" height="1600" alt="home" src="https://github.com/user-attachments/assets/d0544ac4-d3f4-40c5-9138-2165ff7635be" />
+signup page
+<img width="738" height="1600" alt="sign up" src="https://github.com/user-attachments/assets/150b50f1-3431-4fb1-a128-8cb207eefcf3" />
+Register page
+<img width="738" height="1600" alt="register" src="https://github.com/user-attachments/assets/434286e4-dcec-49cc-95b7-721fe45ae414" />
+login page
+<img width="738" height="1600" alt="login" src="https://github.com/user-attachments/assets/ec583295-0e8f-4284-b535-1915373f758d" />
+dessert
+<img width="738" height="1600" alt="dessert" src="https://github.com/user-attachments/assets/5ec9fe07-598a-4aff-946a-7434f429f488" />
+order
+<img width="738" height="1600" alt="order" src="https://github.com/user-attachments/assets/81226d5b-540f-485e-bf3c-aa480b4a3f17" />
+confirmation
+<img width="738" height="1600" alt="confirmation" src="https://github.com/user-attachments/assets/79f81fe8-3c63-459f-aafb-f5651793995c" />
+
+
+
